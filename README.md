@@ -7,7 +7,8 @@
 - Sign up form
 
 
-#Features
+# Features
+
 -- Before authentication --
 - Login / SignUp
     - Sign In / Sign Up Form
