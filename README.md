@@ -68,3 +68,31 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+                    <!-- ################################  My Work Desc  ################################ -->
+
+# AnimeFlix-GPT
+
+- Create react App
+- Configured the tailwind css
+
+
+#Features
+-- Before authentication --
+- Login / SignUp
+    - Sign In / Sign Up Form
+    - after login redirect to browser page
+
+-- After authentication --
+- Browse page [AnimeFlix home page]
+    - Header
+    - Main Movie
+        - Trailer in the background
+        - Title & Desc & play button
+        - Below that MovieSuggestion
+            - MovieList
+- AnimeFlixGPT  [we are going to add a page called 'AnimeFlixGPT'] 
+    - Search Bar
+    - so we get Movie suggestions
+
